@@ -1,0 +1,339 @@
+html {
+	font-family: old-standard, serif;
+	font-weight: 400;
+    background: #ffffff;
+	min-height: 100%;
+	height: 100%;
+	min-width: 100%;
+	width: 100%;
+	color: #231f20;
+	overflow: auto;
+}
+
+body {
+    font-family: old-standard, serif;
+    font-weight: 400;
+    background: #ffffff;
+	min-height: 100%;
+	height: 100%;
+	min-width: 100%;
+	width: 100%;
+    color: #231f20;
+	overflow: auto;
+}
+
+.home {
+	background-color: #B78750;
+	color: #000000;
+}
+
+
+.cottage{
+	background-color: #D0A18B;
+	color: #000000;
+}
+
+.gallery {
+	background-color: #B8B4AB;
+	color: #000000;
+}
+
+.activities {
+	background-color: #B8B4AB;
+	color: #000000;
+}
+
+.prices {
+	background-color: #8EA8A5;
+	color: #000000;
+}
+
+.contact{
+	background-color: #B6C197;
+	color: #000000;
+}
+
+.uk-container {
+  padding: 1rem !important;
+}
+
+footer {
+	padding: 1rem;
+	font-size: 0.875rem;
+	line-height: 1;
+	color: #000000;
+}
+
+footer a {
+	font-size: 0.875rem;
+	color: #000000;
+}
+
+.home footer {
+	background-color: #B78750;
+	color: #000000;
+}
+
+.cottage footer {
+	background-color: #D0A18B;
+	color: #000000;
+}
+
+.gallery footer {
+	background-color: #B8B4AB;
+	color: #000000;
+}
+
+.activities footer {
+	background-color: #B8B4AB;
+	color: #000000;
+}
+
+.prices footer{
+    background-color: #8EA8A5;
+	color: #000000;
+}
+
+.contact footer {
+    background-color: #B6C197;
+    color: #000000;
+}
+
+.uk-container {
+	background: #fff;
+
+}
+
+h1 {
+  font-family: old-standard, serif;
+  font-weight: 400;
+}
+
+h3 {
+	font-family: old-standard, serif;
+	font-weight: 400;
+	font-style: normal;
+}
+
+p {
+  margin: 1.25rem 0 !important;
+  font-size: 1.125rem !important;
+  line-height: 1.5 !important;
+}
+
+p a {
+  font-size: 1.75rem !important;
+  text-decoration: none;
+}
+
+
+img, banner {
+    padding: 0.25rem;
+    background-color: #fff;
+    border: 0.0625rem solid #ddd;
+    border-radius: 0.25rem;
+}
+
+a > img {
+    padding: 0 0.5rem;
+	border: none;
+	border-radius: 0;
+}
+
+
+.uk-navbar {
+	max-height: 3rem;
+}
+
+.home .uk-navbar  {
+	background-color: #B78750;
+}
+
+.cottage .uk-navbar {
+    background-color: #D0A18B;
+}
+
+.gallery .uk-navbar {
+    background-color: #B8B4AB;
+}
+
+.activities .uk-navbar {
+    background-color: #B8B4AB;
+}
+
+.prices .uk-navbar {
+    background-color: #8EA8A5;
+}
+
+.contact .uk-navbar {
+    background-color: #B6C197;
+}
+
+.uk-navbar-nav > li   {
+	min-height: 3rem;
+	max-height: 3rem;
+    color: #000;
+}
+
+.uk-navbar-nav > li > a  {
+	min-height: 3rem;
+	max-height: 3rem;
+    color: #000;
+}
+
+.uk-navbar-nav > li > a:hover {
+	min-height: 3rem;
+	max-height: 3rem;
+}
+
+.uk-navbar-nav > li.uk-active > a {
+	min-height: 3rem;
+	max-height: 3rem;
+}
+
+.uk-navbar-toggle {
+  font-size: 1.25rem !important;
+  min-height: 3rem !important;
+  max-height: 3rem !important;
+}
+
+.uk-offcanvas-bar {
+  background: #231f20 !important;
+}
+
+.uk-offcanvas-close {
+  color: white !important;
+}
+
+.uk-offcanvas-bar > ul > li > a{
+  color: white !important;
+}
+
+.home .uk-navbar-nav> li > a:hover {
+	background-color: #926C40;
+	color: #fff;
+}
+
+.home .uk-navbar-nav > li.uk-active > a {
+	background-color: #926C40;
+	color: #fff;
+}
+
+
+.cottage .uk-navbar-nav > li > a:hover {
+	background-color: #A6816F;
+	color: #fff;
+}
+
+.cottage .uk-navbar-nav > li.uk-active > a {
+	background-color: #A6816F;
+	color: #fff;
+}
+
+.gallery .uk-navbar-nav > li > a:hover {
+	background-color: #394342;
+	color: #fff;
+}
+
+.gallery.uk-navbar-nav > li.uk-active > a {
+	background-color: #394342;
+	color: #fff;
+}
+
+.activities .uk-navbar-nav > li > a:hover {
+	background-color: #544D43;
+	color: #fff;
+}
+
+.activities .uk-navbar-nav > li.uk-active > a {
+	background-color: #544D43;
+	color: #fff;
+}
+
+
+.prices .uk-navbar-nav > li > a:hover {
+    background-color: #394342;
+    color: #fff;
+}
+
+.prices .uk-navbar-nav > li.uk-active > a {
+    background-color: #394342;
+    color: #fff;
+}
+
+
+.contact .uk-navbar-nav > li > a:hover {
+    background-color: #494D3C;
+    color: #fff;
+}
+
+.contact .uk-navbar-nav > li.uk-active > a {
+    background-color: #494D3C;
+    color: #fff;
+}
+
+.uk-heading-primary {
+	margin-top: 1rem;
+    font-size: 2rem;
+	font-weight: bold;
+    line-height: 1.2;
+}
+
+main {
+
+}
+
+h2 {
+	padding: 0;
+	margin-bottom: 1rem;
+	display: block;
+	background: #8EA8A5;
+	font-size: 1.8rem;
+	line-height: 3rem;
+	text-align: left;
+	color: #000000;
+}
+
+.uk-table th {
+	border: 0.0625rem solid #e5e5e5;
+  font-size: 1.125rem !important;
+    font-weight: 600;
+    color: #000;
+}
+
+
+.uk-table td {
+	border: 0.0625rem solid #e5e5e5;
+    color: #000;
+}
+
+.uk-table td > div > p {
+  margin: 0 !important;
+  font-size: 1.125rem;
+  font-weight: 400;
+  color: #000;
+}
+
+.uk-table td > div > h1 {
+  margin: 0 !important;
+  font-size: 1.125rem;
+  font-weight: 500;
+  text-transform: uppercase;
+  color: #000;
+}
+
+.uk-button {
+	 background-color: #B6C197;
+}
+
+
+
+
+
+
+
+
+
+
+
+

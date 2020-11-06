@@ -1,0 +1,23 @@
+body {
+  background-color: #B8B4AB !important;
+  color: #000000;
+}
+
+.activities > nav.uk-navbar-container {
+  background-color: #B8B4AB;
+}
+
+.activities > .uk-navbar-nav > li > a:hover {
+  background-color: #544D43;
+  color: #fff;
+}
+
+.activities > .uk-navbar-nav > li.uk-active > a {
+  background-color: #544D43;
+  color: #fff;
+}
+
+footer {
+  background-color: #B8B4AB;
+  color: #000000;
+}

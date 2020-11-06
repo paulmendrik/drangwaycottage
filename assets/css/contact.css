@@ -1,0 +1,33 @@
+body {
+  background-color: #B6C197;
+  color: #000000;
+}
+
+nav.uk-navbar-container {
+  background-color: #B6C197;
+}
+
+
+.uk-navbar-nav > li > a:hover {
+  background-color: #494D3C;
+  color: #fff;
+}
+
+.uk-navbar-nav > li.uk-active > a {
+  background-color: #494D3C;
+  color: #fff;
+}
+
+p.block-img {
+  margin: 0 !important;
+  display: inline !important;
+}
+
+p.block-img img {
+  width: 10% !important;
+}
+
+footer {
+  background-color: #B6C197;
+  color: #000000;
+}

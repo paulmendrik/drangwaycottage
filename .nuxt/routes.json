@@ -1,0 +1,50 @@
+[
+  {
+    "name": "prismic-preview",
+    "path": "/preview",
+    "component": "/Users/paul/drangway/.nuxt/prismic/pages/preview.vue",
+    "_name": "_4ed6087e"
+  },
+  {
+    "name": "activities",
+    "path": "/activities",
+    "component": "/Users/paul/drangway/pages/activities.vue",
+    "chunkName": "pages/activities",
+    "_name": "_ec74b156"
+  },
+  {
+    "name": "contact",
+    "path": "/contact",
+    "component": "/Users/paul/drangway/pages/contact.vue",
+    "chunkName": "pages/contact",
+    "_name": "_6bf51168"
+  },
+  {
+    "name": "cottage",
+    "path": "/cottage",
+    "component": "/Users/paul/drangway/pages/cottage.vue",
+    "chunkName": "pages/cottage",
+    "_name": "_28e0a54a"
+  },
+  {
+    "name": "gallery",
+    "path": "/gallery",
+    "component": "/Users/paul/drangway/pages/gallery.vue",
+    "chunkName": "pages/gallery",
+    "_name": "_2d2d08cc"
+  },
+  {
+    "name": "prices",
+    "path": "/prices",
+    "component": "/Users/paul/drangway/pages/prices.vue",
+    "chunkName": "pages/prices",
+    "_name": "_f83cd59c"
+  },
+  {
+    "name": "index",
+    "path": "/",
+    "component": "/Users/paul/drangway/pages/index.vue",
+    "chunkName": "pages/index",
+    "_name": "_52534dcc"
+  }
+]

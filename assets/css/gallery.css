@@ -1,0 +1,24 @@
+body {
+  background-color: #B8B4AB;
+  color: #000000;
+}
+
+
+.uk-navbar {
+  background-color: #B8B4AB !important;
+}
+
+.uk-navbar-nav > li > a:hover {
+  background-color: #394342 !important;
+  color: #fff;
+}
+
+.uk-navbar-nav > li.uk-active > a {
+  background-color: #394342 !important;
+  color: #fff;
+}
+
+footer {
+  background-color: #B8B4AB;
+  color: #000000;
+}

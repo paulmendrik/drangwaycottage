@@ -1,0 +1,30 @@
+body{
+  background-color: #D0A18B;
+  color: #000000;
+}
+
+.uk-navbar {
+  background-color: #D0A18B;
+}
+
+.uk-navbar-nav > li > a:hover {
+  background-color: #A6816F;
+  color: #fff;
+}
+
+.uk-navbar-nav > li.uk-active > a {
+  background-color: #A6816F !important;
+  color: #fff;
+}
+
+p {
+  margin: 1.25rem 0 !important;
+  font-size: 1.125rem !important;
+  line-height: 1.5 !important;
+}
+
+
+footer {
+  background-color: #D0A18B;
+  color: #000000;
+}
